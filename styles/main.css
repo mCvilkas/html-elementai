@@ -1,0 +1,14 @@
+strong{
+  font-size: 120%;
+  color: yellow;
+}
+body{
+  font-size: 10px;
+}
+span{
+  color: green;
+}
+
+.green{
+  color: purple;
+}
